@@ -7,7 +7,7 @@ first_name: Ricardo
 middle_name: R.
 last_name: Alejandro
 email: Ricardo.AlejandroBenavides@UGent.be
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 
 lang: en-us # the main language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
