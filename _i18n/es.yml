@@ -13,19 +13,19 @@ main:
     <p>Sua cidade, estado 12345</p>
   subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
 titles:
-  about: sobre
+  about: acerca
   blog: blog
   cv: cv
-  latest_posts: últimas postagens
-  news: novidades
+  latest_posts: últimos posts
+  news: novticias
   profiles: membros
-  projects: projetos
-  publications: publicações
-  repositories: repositórios
-  selected_publications: publicações selecionadas
-  teaching: ensino
-  submenus: submenus
-  unk: página não encontrada
+  projects: proyectos
+  publications: publicaciones
+  repositories: repositorios
+  selected_publications: publicaciones seleccionadas
+  teaching: docencia
+  submenus: submenús
+  unk: página no encontrada
 descriptions:
   about: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).
   archive-category: um arquivo de postagens desta categoria
