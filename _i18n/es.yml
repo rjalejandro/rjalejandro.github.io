@@ -12,6 +12,7 @@ main:
     <p>123 seu endereço</p>
     <p>Sua cidade, estado 12345</p>
   subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
+cv_pdf: /assets/pdf/es/example_pdf.pdf
 titles:
   about: acerca
   blog: blog
