@@ -6,9 +6,9 @@ main:
   footer_text: > # the ">" symbol means to ignore newlines until "titles:"
     Potenciado por <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> con <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> y <a href="https://www.flaticon.com/authors/iconpro86">Iconpro86.
   more_info: >
-    <p>555 seu telefone do trabalho</p>
-    <p>123 seu endereço</p>
-    <p>Sua cidade, estado 12345</p>
+#    <p>555 seu telefone do trabalho</p>
+#    <p>123 seu endereço</p>
+#    <p>Sua cidade, estado 12345</p>
   subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
 titles:
   about: acerca
