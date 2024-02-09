@@ -247,7 +247,7 @@ sass:
 # multi language settings
 default_locale_in_subfolder: false
 exclude_from_localizations: ["assets"]
-languages: ["en-us", "pt-br"]
+languages: ["en-us", "esp"]
 country_flag: false # set true for allowing flag symbol in language toggle
 
 # -----------------------------------------------------------------------------
@@ -308,8 +308,8 @@ scholar:
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
-  altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
+  altmetric: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions: false # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
@@ -452,8 +452,8 @@ vega-lite:
 jekyll_get_json:
   - data: resume_en
     json: assets/json/resume_en-us.json # it can also be an url
-  - data: resume_pt-br
-    json: assets/json/resume_pt-br.json # it can also be an url
+  - data: resume_es
+    json: assets/json/resume_es.json # it can also be an url
 jsonresume:
   - basics
   - work
