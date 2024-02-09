@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://rjalejandro.github.io/pt-br/sitemap.xml
