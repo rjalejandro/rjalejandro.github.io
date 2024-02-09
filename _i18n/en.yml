@@ -10,7 +10,8 @@ main:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
   subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-cv_pdf: /assets/pdf/en/example_pdf.pdf
+pdfs:
+  cv_pdf: /assets/pdf/en/example_pdf.pdf
 titles:
   about: about
   blog: blog
