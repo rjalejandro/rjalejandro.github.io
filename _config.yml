@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ricardo
 middle_name: R.
 last_name: Alejandro
-email: you@example.com
+email: Ricardo.AlejandroBenavides@UGent.be
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 
 lang: en-us # the main language of your site (for example: en, fr, cn, ru, etc.)
