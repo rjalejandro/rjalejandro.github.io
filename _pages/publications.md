@@ -1,7 +1,7 @@
 ---
 layout: page
 title: titles.publications
-description: descriptions.publications
+#description: descriptions.publications
 permalink: /publications/
 nav: true
 nav_order: 2
