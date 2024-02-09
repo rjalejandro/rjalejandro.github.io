@@ -12,8 +12,6 @@ main:
     <p>123 seu endereço</p>
     <p>Sua cidade, estado 12345</p>
   subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
-pdfs:
-  cv_pdf: /assets/pdf/es/example_pdf.pdf
 titles:
   about: acerca
   blog: blog
@@ -34,7 +32,7 @@ descriptions:
   archive-tag: um arquivo de postagens com este marcador
   archive-year: um arquivo de postagens deste ano
   blog: um tema simples para acadêmicos
-  cv: Puedes ver mi CV [aquí](https://rjalejandro.github.io/assests/pdf/es/Alejandro-2024_es.pdf)
+  cv: 
   profiles: Membros do grupo de pesquisa ou laboratório.
   projects: Uma crescente coleção de seus projetos interessantes.
   publications: publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.
