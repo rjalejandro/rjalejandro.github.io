@@ -11,7 +11,10 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
-    <p class="desc">{% t main.subtitle %}</p>
+    {% comment %}
+    in case you want a subtitle under the name, uncomment this line and edit "subtitle:" in en and es.yml 
+      <p class="desc">{% t main.subtitle %}</p>
+    {% endcomment %}
   </header>
 
   <article>
