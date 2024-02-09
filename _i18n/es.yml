@@ -32,7 +32,7 @@ descriptions:
   archive-tag: um arquivo de postagens com este marcador
   archive-year: um arquivo de postagens deste ano
   blog: um tema simples para acadêmicos
-  #cv: 
+  #cv:
   profiles: Membros do grupo de pesquisa ou laboratório.
   projects: Uma crescente coleção de seus projetos interessantes.
   publications: publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.
