@@ -4,9 +4,7 @@ not_found:
 main:
   contact_note: Puedes contactarme usando cualquiera de los enlaces de aquí arriba ↑
   footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-    Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-    Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-    Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+    Potenciado por <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> con <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> y <a href="https://www.flaticon.com/authors/iconpro86">Iconpro86.
   more_info: >
     <p>555 seu telefone do trabalho</p>
     <p>123 seu endereço</p>
