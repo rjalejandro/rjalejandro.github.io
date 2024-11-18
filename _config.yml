@@ -63,7 +63,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : alejandrob7 # Username
+  steam            : "76561198172777946" #alejandrob7 # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : "ricalbena" # Username for X / Twitter
@@ -234,7 +234,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
