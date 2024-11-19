@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Summarized CV 
+##Summarized CV 
 
 (you can find my complete CV [here](../files/Alejandro_2024.pdf))
 
 Education
 ======
-* Ph.D in Experimental Psychology; Ghent University, 2020 - present
-* M.S. in Biomedical Engineering; University of Lübeck & Technical University of Lübeck, 2020
-* B.S. (equivalent to B.S. + M.S.) in Electronics and Telecommunications; Technical University of Loja, 2017
+* PhD in Experimental Psychology; Ghent University, 2020 - present
+* MSc in Biomedical Engineering; University of Lübeck & Technical University of Lübeck, 2020
+* BSc (equivalent to BSc + MSc) in Electronics and Telecommunications; Technical University of Loja, 2017
 
 Employment
 ======
