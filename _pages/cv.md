@@ -21,6 +21,6 @@ Education
 
 Employment
 ======
-* 2020 - : PhD Researcher, [Learning and Cognitive Control Lab](https://lccl.ugent.be/)
+* 2020 - present: PhD Researcher, [Learning and Cognitive Control Lab](https://lccl.ugent.be/)
 * 2019 - 2020: Research Assistant, [Life-Span Lab](https://www.ipsy1.uni-luebeck.de/forschung/ag-bunzeck)
 * 2016 - 2018: Communications Engineer / Independent Engineering contractor
