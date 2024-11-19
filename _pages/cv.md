@@ -12,7 +12,8 @@ redirect_from:
 Summarized CV 
 ====== 
 
-(you can find my complete CV [here](../files/Alejandro_2024.pdf))
+(you can find my complete CV [here](../files/Alejandro_2024.pdf)) 
+
 
 Education
 ------
