@@ -27,9 +27,11 @@ Joyce Oerlemans, **Ricardo J. Alejandro**, Dirk Van Roost, Paul Boon, Veerle De 
 ***Hierarchical control over foraging behavior by anterior cingulate cortex***  
 **Ricardo J. Alejandro**, Clay B. Holroyd  
 *Neuroscience & Biobehavioral Reviews (2024)* 
-[[URL]](https://www.sciencedirect.com/science/article/pii/S0149763424000927)  
+[[URL]](https://www.sciencedirect.com/science/article/pii/S0149763424000927) 
+[[PDF]](../files/Alejandro_&_Holroyd_2024.pdf)
 
 ***Semantic congruence drives long-term memory and similarly affects neural retrieval dynamics in young and older adults***  
 **Ricardo J. Alejandro**, Pau A. Packard, Tineke K. Steiger, Lluis Fuentemilla, Nico Bunzeck  
 *Frontiers in Aging Neuroscience (2021)* 
-[[URL]](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2021.683908/full)
+[[URL]](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2021.683908/full) 
+[[PDF]](../files/Alejandro_et_al_2021.pdf)
