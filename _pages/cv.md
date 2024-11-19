@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##Summarized CV 
+## Summarized CV 
 
 (you can find my complete CV [here](../files/Alejandro_2024.pdf))
 
