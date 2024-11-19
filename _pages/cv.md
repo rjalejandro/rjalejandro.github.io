@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Summarized CV 
+
+(you can find my complete CV [here](../files/Alejandro_2024.pdf))
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Experimental Psychology; Ghent University, 2020 - present
+* M.S. in Biomedical Engineering; University of Lübeck & Technical University of Lübeck, 2020
+* B.S. (equivalent to B.S. + M.S.) in Electronics and Telecommunications; Technical University of Loja, 2017
 
-Work experience
+Employment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2020 - : PhD Researcher, [Learning and Cognitive Control Lab](https://lccl.ugent.be/)
+* 2019 - 2020: Research Assistant, [Life-Span Lab](https://www.ipsy1.uni-luebeck.de/forschung/ag-bunzeck)
+* 2016 - 2018: Communications Engineer / Independent Engineering contractor
