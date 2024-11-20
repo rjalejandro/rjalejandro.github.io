@@ -12,7 +12,9 @@ For instance how the brain assigns value to options in order to inform decisions
 
 In my research I use behavioral experiments in combination with neuroimaging (fMRI, EEG, iEEG) and computational modelling (e.g., reinforcement learning).
 
-<Before joining Ghent University, I completed my masters in Biomedical Engineering at University of Lübeck, in Germany,
-where I worked at the [Life Span group](https://www.ipsy1.uni-luebeck.de/forschung/ag-bunzeck/) led by Nico Bunzeck.
-And before that I got an Electronics and Telecommunications Engineering degree at [UTPL](https://www.utpl.edu.ec/), in Loja, Ecuador,
-where I worked with [Manuel Quiñones](https://investigacion.utpl.edu.ec/mfquinonez) on designing and implementing wireless sensor networks.>
+I completed my BSc in Electronics and Telecommunications Engineering at [UTPL](https://www.utpl.edu.ec/), where I worked with
+[Manuel Quiñones](https://investigacion.utpl.edu.ec/mfquinonez) on designing and implementing wireless sensor networks.
+I completed my MSc in Biomedical Engineering at University of Lübeck, where I worked with [Nico Bunzeck](https://www.ipsy1.uni-luebeck.de/forschung/ag-bunzeck/) on semantic
+memory across the life-span.
+
+I am now a PhD researcher at Ghent University working with [Clay Holroyd](https://lccl.ugent.be/) on diverse aspects of human cognition.
