@@ -21,7 +21,7 @@ Darwin Castillo, **Ricardo J. Alejandro**, Santiago García, María José Rodrí
 
 ***Unravelling the origin of the reward positivity: a human intracranial event-related brain potential study***  
 Joyce Oerlemans, **Ricardo J. Alejandro**, Dirk Van Roost, Paul Boon, Veerle De Herdt, Alfred Meurs, Clay B. Holroyd  
-*Brain (2024)* <li style="display: inline-block"><a href="https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae259/7727398" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+*Brain (2024)* <ul><li><a href="https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae259/7727398" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li></ul>
 
 ***Hierarchical control over foraging behavior by anterior cingulate cortex***  
 **Ricardo J. Alejandro**, Clay B. Holroyd  
