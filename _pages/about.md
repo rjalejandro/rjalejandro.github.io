@@ -17,4 +17,4 @@ I completed my BSc in Electronics and Telecommunications Engineering at [UTPL](h
 I completed my MSc in Biomedical Engineering at University of Lübeck, where I worked with [Nico Bunzeck](https://www.ipsy1.uni-luebeck.de/forschung/ag-bunzeck/) on semantic
 memory across the life-span.
 
-I am now a PhD researcher at Ghent University working with [Clay Holroyd](https://lccl.ugent.be/) on diverse aspects of human cognition.
+Currently, I am a PhD researcher at Ghent University working with [Clay Holroyd](https://lccl.ugent.be/) on diverse aspects of human cognition.
