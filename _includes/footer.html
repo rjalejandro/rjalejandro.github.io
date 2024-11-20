@@ -12,6 +12,9 @@
     {% if site.author.email %}
       <li><a href="mailto:{{ site.author.email }}"><i class="fab fa-envelope" aria-hidden="true"></i> email</a></li>
     {% endif %}
+    {% if site.author.bluesky %}
+      <li><a href="https://bsky.app/profile/{{ site.author.bluesky }}"><i class="fab fa-bluesky" aria-hidden="true"></i>Bluesky</a></li>
+    {% endif %}
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
