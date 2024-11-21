@@ -15,8 +15,8 @@ Peer-reviewed
 =====
 
 ***Region of Interest Features and Classification of MRI Brain Lesions***  
-<span style="color:#D3D3D3">Darwin Castillo, **Ricardo J. Alejandro**, Santiago García, María José Rodríguez-Álvarez, Vasudevan Lakshminarayanan</span>  
-*Information and Communication Technologies (2024)* 
+<span style="color:#282828">Darwin Castillo, **Ricardo J. Alejandro**, Santiago García, María José Rodríguez-Álvarez, Vasudevan Lakshminarayanan</span>  <!-- authors -->
+*Information and Communication Technologies (2024)* <!-- journal (year) -->
 &nbsp; <!-- space between the icons -->
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-75431-9_4" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a> <!-- URL -->
 
