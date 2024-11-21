@@ -14,13 +14,13 @@ author_profile: true
 Peer-reviewed
 =====
 
-***Region of Interest Features and Classification of MRI Brain Lesions***  
+## ***Region of Interest Features and Classification of MRI Brain Lesions***  
 <span style="color:#C0C0C0">Darwin Castillo, **Ricardo J. Alejandro**, Santiago García, María José Rodríguez-Álvarez, Vasudevan Lakshminarayanan</span>  <!-- authors -->
 <span style="color:#C0C0C0">*Information and Communication Technologies (2024)*</span> <!-- journal (year) -->
 &nbsp; <!-- space between the icons -->
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-75431-9_4" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a> <!-- URL -->
 
-***Unravelling the origin of the reward positivity: a human intracranial event-related brain potential study***  
+# ***Unravelling the origin of the reward positivity: a human intracranial event-related brain potential study***  
 <span style="color:#C0C0C0">Joyce Oerlemans, **Ricardo J. Alejandro**, Dirk Van Roost, Paul Boon, Veerle De Herdt, Alfred Meurs, Clay B. Holroyd</span>  
 <span style="color:#C0C0C0">*Brain (2024)*</span>
 &nbsp; <!-- space between the icons -->
