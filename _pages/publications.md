@@ -15,10 +15,12 @@ pre-prints
 =====
 
 <span style="font-size:21px">***Region of Interest Features and Classification of MRI Brain Lesions***</span>  
-<span style="color:#C0C0C0">Joyce Oerlemans, **Ricardo J. Alejandro**, Dimitri Hemelsoet, Eva Genbrugge, Katie Bouche, Luc Defreyne, Veerle De Herdt, Clay B. Holroyd</span>  <!-- authors -->
+<span style="color:#C0C0C0">Joyce Oerlemans, **Ricardo J. Alejandro**, Dimitri Hemelsoet, Eva Genbrugge, Katie Bouche, Luc Defreyne, Veerle De Herdt, Clay B. Holroyd</span>
 <span style="color:#C0C0C0">*bioRxiv (2024)*</span> <!-- journal (year) -->
 &nbsp; <!-- space between the icons -->
 <a href="https://www.biorxiv.org/content/10.1101/2024.12.04.626789.abstract" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a> <!-- URL -->
+
+<br>
 
 Peer-reviewed
 =====
