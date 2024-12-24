@@ -14,7 +14,7 @@ author_profile: true
 pre-prints
 =====
 
-<span style="font-size:21px">***Region of Interest Features and Classification of MRI Brain Lesions***</span>  
+<span style="font-size:21px">***Lesions of anterior cingulate cortex disrupt an electrophysiological signature of reward processing in humans***</span>  
 <span style="color:#C0C0C0">Joyce Oerlemans, **Ricardo J. Alejandro**, Dimitri Hemelsoet, Eva Genbrugge, Katie Bouche, Luc Defreyne, Veerle De Herdt, Clay B. Holroyd</span>
 <span style="color:#C0C0C0">*bioRxiv (2024)*</span> <!-- journal (year) -->
 &nbsp; <!-- space between the icons -->
