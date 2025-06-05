@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am interested in how the interplay between learning, memory, and cognitive control guides goal-directed behavior (e.g., decision strategies, planning).
-For instance how the brain assigns value to options in order to inform decisions, or how the brain implements internal simulations to direct planning.
+For instance how the brain assigns value to options in order to inform decisions, or how the brain implements internal simulations to direct mental planning.
 
 In my research I use behavioral experiments in combination with neuroimaging (fMRI, EEG, iEEG) and computational modelling (e.g., reinforcement learning).
 
